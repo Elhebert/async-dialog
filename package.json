@@ -1,0 +1,28 @@
+{
+  "name": "async-dialog",
+  "version": "0.0.1",
+  "description": "async, promise compatible, native dialog",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Elhebert/async-dialog"
+  },
+  "bugs": {
+    "url": "https://github.com/Elhebert/async-dialog/issues"
+  },
+  "homepage": "https://github.com/Elhebert/async-dialog#readme",
+  "keywords": [
+    "async",
+    "dialog",
+    "promise",
+    "prompt",
+    "alert",
+    "confirm"
+  ],
+  "author": {
+    "name": "Dieter Stinglhamber",
+    "email": "elhebert@hotmail.be",
+    "url": "https://dieterstinglhamber.me/"
+  },
+  "license": "MIT"
+}
