@@ -6,6 +6,8 @@
 
 Asynchronous version of native dialog functions `alert`, `confirm` and `prompt`.
 
+Fine, I'll be honest, it's not trully async, just a _promisfied_ version of the native prompts, it's still blocking the code excecution. But still, it's usefull 🧐
+
 ### Installation
 
 ```bash
