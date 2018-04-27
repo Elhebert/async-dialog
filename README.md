@@ -1,5 +1,9 @@
 # Asynchronous Dialog
 
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![npm](https://img.shields.io/npm/v/async-dialog.svg?style=flat-square)](https://www.npmjs.com/package/async-dialog)
+[![npm](https://img.shields.io/npm/dw/async-dialog.svg?style=flat-square)](https://www.npmjs.com/package/async-dialog)
+
 Asynchronous version of native dialog functions `alert`, `confirm` and `prompt`.
 
 ### Installation
